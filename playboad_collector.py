@@ -116,8 +116,8 @@ driver = run_browser()
 
 
 #restore log
-s_start = 1300
-p_start = 1300
+s_start = 0
+p_start = 0
 p_step= 60
 s_step= 100
 
